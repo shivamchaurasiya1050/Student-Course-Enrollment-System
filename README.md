@@ -55,8 +55,6 @@ For testing purposes, you can use these credentials:
 ## Database Schema
 
 The database schema is available in the following ways:
-1. [Attach a .sql dump file to your repository]
-2. [Describe schema here if not using a dump file]
 
 ### Tables Structure
 - **users** (id, name, email, password, role, createdAt, updatedAt)
